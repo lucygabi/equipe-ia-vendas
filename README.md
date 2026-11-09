@@ -57,9 +57,9 @@ Os detalhes estão em [RESULTADOS-DOS-TESTES.md](RESULTADOS-DOS-TESTES.md), e re
 ## Quer isso montado no seu negócio?
 Se você quer os agentes integrados ao seu atendimento, treinados com os seus materiais ou adaptados para o seu setor, fale comigo.
 
-<img src="assets/qr-contatos.png" alt="QR Code para o portfólio e os contatos da LucyGabi" width="180">
+<img src="assets/qr-contatos.png" alt="QR Code para a página de contatos da LucyGabi" width="180">
 
-- **Portfólio e contatos:** https://lucygabi.github.io
+- **Todos os meus contatos e sistemas:** https://contato-lucygabi.vercel.app
 - **Formulário "Fale comigo":** https://forms.gle/in57A2X3riV1eTp2A
 - **Instagram:** [@luciana.gabriella.9](https://www.instagram.com/luciana.gabriella.9/)
 - **LinkedIn:** [Luciana Gabriella da Silva](https://www.linkedin.com/in/luciana-gabriella-da-silva-9678591aa)
